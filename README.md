@@ -2,4 +2,6 @@
 
 Name your files in your particular folder
 #
-Coming soon
+How to Use
+
+py FileNamer.py PathOfYourFolder newName
